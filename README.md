@@ -2,8 +2,6 @@
 
 # PII Detection and Protection System
 
-## Smart India Hackathon Project
-
 This project is our submission for the Smart India Hackathon, addressing the critical need for protecting Personally Identifiable Information (PII) in digital documents and data.
 
 ## Problem Statement
@@ -114,10 +112,5 @@ Setting up the project is straightforward:
 - Enhanced reporting and analytics features for better insights into PII management.
 
 
-## Contact
-- Team Name - Privacy Sentinels
-- Team Leader Email - saharicky20@gmail.com
-
----
 
 This project aims to address the critical need for PII protection in the digital age, offering a robust solution for individuals and organizations to safeguard sensitive information. While core functionalities are fully implemented, we are excited about the ongoing development of additional security features to further enhance the system's capabilities.
